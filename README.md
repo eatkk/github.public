@@ -4,3 +4,6 @@
  'git pull'
  'git push'
  
+* out of sync
+* push, pull, fetch comparison
+* 
